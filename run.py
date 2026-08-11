@@ -1,2 +1,1 @@
-input = input('enter something  ')
-print(input[::-1])
+#chal bhag yaha se
